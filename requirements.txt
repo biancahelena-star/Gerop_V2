@@ -1,0 +1,9 @@
+streamlit
+chromadb
+sentence-transformers
+langchain-text-splitters
+rank-bm25
+docling
+pypdfium2
+rapidocr-onnxruntime
+rapidfuzz
